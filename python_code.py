@@ -1,24 +1,5 @@
-print('Hello')
-
-print("This notebook is for the capstone project")
-
-The authenticity of host 'github.com (52.78.231.108)' can't be established.
-
-The authenticity of host 'github.com (52.78.231.108)' can't be established.
-
-The authenticity of host 'github.com (52.78.231.108)' can't be established.
-
-The authenticity of host 'github.com (52.78.231.108)' can't be established.
-
-
-The authenticity of host 'github.com (52.78.231.108)' can't be established.
-
-print
-Tprint
-printe 
-
-
-
-
-
+#This notebook is for the project
+import pandas as pd
+import Numpy as np
+print("Hello Capstone Project Course!")
 
